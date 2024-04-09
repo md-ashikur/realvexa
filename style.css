@@ -1,0 +1,28 @@
+/* header section */
+
+.header-carousel-btn{
+    background-color: #3A0CA3 !important;
+    border-radius: 50%;
+    height: 40px !important;
+    width: 40px !important;
+    padding: 5px;
+}
+.carousel-control-prev{
+    position: absolute;
+    left: -20px !important;
+   top: 45% !important;
+  
+}
+.carousel-control-next{
+    position: absolute;
+    right: -20px !important;
+   top: 45% !important;
+ 
+}
+
+.header-form{
+    max-width: 420px;
+ 
+    border: 2px solid #ccc;
+    padding: 20px;
+}
